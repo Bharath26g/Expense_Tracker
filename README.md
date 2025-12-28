@@ -1,5 +1,5 @@
-# Expense_Tracker
-# Expense Tracker
+#Expense_Tracker
+#Expense Tracker
 
 An Expense Tracker web application that helps users record, track, and manage their daily expenses.  
 This project is built to practice JavaScript, DOM manipulation, and basic data handling.
